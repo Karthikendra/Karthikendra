@@ -104,8 +104,8 @@ Exploring explainable machine learning approaches for financial market analysis 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/karthikendra/>
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/karthikendra/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect"/>
 </a>
 
 <a href="https://github.com/Karthikendra">
