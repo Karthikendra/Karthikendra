@@ -82,7 +82,7 @@ Exploring explainable machine learning approaches for financial market analysis 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Karthikendra&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Karthikendra&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 
 </div>
 
