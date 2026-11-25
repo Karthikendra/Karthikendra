@@ -87,15 +87,12 @@ Exploring explainable machine learning approaches for financial market analysis 
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Karthikendra/Karthikendra/output/github-contribution-grid-snake.svg" />
 </p>
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Karthikendra/Karthikendra/output/github-contribution-grid-snake.svg" />
-
-</div>
 
 ---
 
