@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-🎓 MBA student specializing in **Finance & Data Analytics**
+🎓 MBA student specializing in **Finance & Data Scientist**
 
 📊 Interested in transforming data into meaningful insights.
 
@@ -60,7 +60,7 @@
 
 Exploring explainable machine learning approaches for financial market analysis using Indian equity market data.
 
-**Focus:** Machine Learning • SHAP • Financial Data • Explainable AI
+**Focus:** Machine Learning • SHAP • Financial Data • Explainable AI  • LIMW 
 
 ---
 
@@ -104,7 +104,7 @@ Exploring explainable machine learning approaches for financial market analysis 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/karthikendra/>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
