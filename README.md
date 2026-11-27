@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Karthikendra&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Finance%20%7C%20Data%20Science%20%7C%20Quantitative%20Finance&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=MBA+%7C+Finance+%26+Data+Analytics;Data+Science+Enthusiast;Machine+Learning+%26+Artificial+Intelligence;Exploring+Quantitative+Finance;Building+Data-Driven+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=MBA+%7C+Finance+%26+Data+Scientist;Data+Science+Enthusiast;Machine+Learning+%26+Artificial+Intelligence;Exploring+Quantitative+Finance;Building+Data-Driven+Projects" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 📈 Passionate about **Financial Markets and Quantitative Finance**
 
-🐍 Learning and building projects using Python and data analytics.
+🐍 Learning and building projects using Python and Data Science.
 
 ---
 
@@ -62,7 +62,7 @@
 
 Exploring explainable machine learning approaches for financial market analysis using Indian equity market data.
 
-**Focus:** Machine Learning • SHAP • Financial Data • Explainable AI  • LIMW 
+**Focus:** Machine Learning • SHAP • Financial Data • Explainable AI  • LIME
 
 ---
 
